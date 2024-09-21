@@ -53,6 +53,9 @@ body {
     position: absolute;
 }
 
+.tab-pane img {
+    height: 220px;
+}
 
 section h2 {
     font-size: 40px;
@@ -114,4 +117,9 @@ section h3 {
 	.carousel-item img {
 		height: 280px;
 	}
+
+    .tab-pane img {
+        height: 120px;
+    }
+    
 }
